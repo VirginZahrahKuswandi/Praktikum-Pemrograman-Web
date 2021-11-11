@@ -1,0 +1,30 @@
+.Profilename {
+     color: darkred;
+}
+.atas {
+    width: 50%;
+    margin-left: 300px;
+}
+.gambar {
+    display: flex;
+    width: 1000px;
+    margin: 0 100px;
+    justify-content: space-between;
+    background-color: lawngreen;
+}
+
+.Jeann {
+    width: 200px;
+}
+
+.bigbang {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tulis {
+    width: 1000px;
+    margin: 0 100px;
+    background-color: rgb(100, 189, 237);
+    font-family: sans-serif;
+}
